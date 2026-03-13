@@ -1,7 +1,7 @@
 //insertion sort
 
 import java.util.Scanner;
-class InsortionSort{
+class InsertionSort{
     public static void main(String s[]){
         Scanner sc=new Scanner(System.in);
 
