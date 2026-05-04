@@ -5,14 +5,6 @@ This repository contains my Data Structures and Algorithms practice problems sol
 ## Topics Covered
 - Arrays
 - Strings
-- Recursion
-- Searching
-- Sorting
-- Linked List
-- Stack
-- Queue
-- Trees
-- Hashing
 
 ## Purpose
 - Improve problem-solving skills
