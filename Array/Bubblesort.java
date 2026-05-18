@@ -1,4 +1,4 @@
-//Bubble sort
+//Bubble sort code
 
 import java.util.Scanner;
 class Bubblesort{
