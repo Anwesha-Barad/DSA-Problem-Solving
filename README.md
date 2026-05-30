@@ -1,4 +1,4 @@
-# DSA Problem Solving (Java)
+# DSA Problem Solving 
 
 This repository contains my Data Structures and Algorithms practice problems solved in Java.
 
