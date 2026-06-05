@@ -6,7 +6,6 @@ This repository contains my Data Structures and Algorithms practice problems sol
 - Arrays
 - Strings
 
-
 ## Purpose
 - Improve problem-solving skills
 - Prepare for coding interviews
