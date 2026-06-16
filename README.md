@@ -5,7 +5,7 @@ This repository contains my Data Structures and Algorithms practice problems sol
 ## Topics Covered
 - Arrays
 - Strings
-
+- Linked list 
 
 ## Purpose
 - Improve problem-solving skills
