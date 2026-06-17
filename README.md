@@ -6,6 +6,7 @@ This repository contains my Data Structures and Algorithms practice problems sol
 - Arrays
 - Strings
 - Linked list 
+- Queue 
 
 
 ## Purpose
