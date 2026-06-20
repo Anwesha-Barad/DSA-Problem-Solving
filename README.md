@@ -8,7 +8,6 @@ This repository contains my Data Structures and Algorithms practice problems sol
 - Linked list 
 - Queue 
 
-
 ## Purpose
 - Improve problem-solving skills
 - Prepare for coding interviews
