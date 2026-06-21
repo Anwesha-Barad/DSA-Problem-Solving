@@ -12,19 +12,17 @@ class Duplicate_Element{
             arr[i]=sc.nextInt();
         }
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(arr[i]==arr[j]){
-                    for(int k=j;k<n-1;k++){
-                        arr[k]=arr[k+1];
-                    }
-                      n--;
-                j--;
-                }
+           boolean duplicate=false;
+           for(int j=0;j<i;j++){
+            if(arr[i]==arr[j]){
+                duplicate= true;
+                break;
             }
-        }
-        System.out.println("removed duplicate value");
-        for(int i=0;i<n;i++){
-             System.out.println(arr[i]+" ");
+           }
+          
+           if(!duplicate){
+             System.out.print(arr[i]+" ");
+           }
         }
     }
 }
